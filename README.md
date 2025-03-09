@@ -1,7 +1,8 @@
 # Coding-Challenges
 
 This repository contains my solutions to various coding challenges from platforms like LeetCode, CodeWars, HackerRank, and more. The goal is to improve problem-solving skills and algorithmic thinking.
-📂 Structure
+
+## 📂 Structure
 
 ```
 coding-challenges/
