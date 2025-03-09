@@ -20,7 +20,7 @@ coding-challenges/
 │── .gitignore
 ```
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone the repository:
 
