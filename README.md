@@ -22,23 +22,23 @@ coding-challenges/
 
 ## 🚀 How to Use
 
-Clone the repository:
+### Clone the repository:
 
     git clone https://github.com/yourusername/coding-challenges.git
     
 Solve a challenge and add your solution in the appropriate folder.
 
-Run tests with:
+### Run tests with:
 
     python -m unittest discover tests/
 
-Commit and push your solutions:
+### Commit and push your solutions:
 
     git add .  
     git commit -m "Solved [challenge name]"  
     git push origin main  
 
-🏆 Goals
+## 🏆 Goals
 
 Solve at least 3 challenges per week.
 Focus on optimizing solutions for efficiency.
