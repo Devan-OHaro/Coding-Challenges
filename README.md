@@ -23,10 +23,14 @@ coding-challenges/
 🚀 How to Use
 
 Clone the repository:
-git clone https://github.com/yourusername/coding-challenges.git
-Solve a challenge and add your solution in the appropriate folder.
+
+    git clone https://github.com/yourusername/coding-challenges.git
+    Solve a challenge and add your solution in the appropriate folder.
+    
 Run tests with:
-python -m unittest discover tests/
+
+    python -m unittest discover tests/
+
 Commit and push your solutions:
 
     git add .  
